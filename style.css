@@ -145,3 +145,23 @@ img:hover {
 #contact {
     background-color: bisque;
 }
+
+.container {
+    padding: 10%;
+}
+
+#mycarousel {
+    background-color: antiquewhite;
+}
+
+#mycarousel img {
+    height: 450px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    font-size: 20px;
+    color: black;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
